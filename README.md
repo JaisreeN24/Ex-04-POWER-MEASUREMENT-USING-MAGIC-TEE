@@ -45,7 +45,7 @@ The difference in the attenuator settings gives the ration of the power coupled 
 Isolation measurement (Tabulation)
 
 Measurement of power division (Tabulation)
-<img width="502" height="1310" alt="WhatsApp Image 2026-06-10 at 13 23 52" src="https://github.com/user-attachments/assets/64ce5dae-11a1-43a3-8e49-82c20088bee8" />
+<img width="1310" height="502" alt="WhatsApp Image 2026-06-10 at 13 23 52" src="https://github.com/user-attachments/assets/6fbca30b-63cc-46fb-bbcf-8a19a0a2f292" />
 
 
 
